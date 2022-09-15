@@ -9,7 +9,7 @@ import {
 } from '@mui/material'
 import { Helmet } from 'react-helmet'
 import { ThemeProvider } from '@mui/material/styles'
-import { theme, themeMUI } from '../theme'
+import { theme, themeMUI } from '../../theme'
 import { useState } from 'react'
 import Chart from 'react-apexcharts'
 import Paper from '@mui/material/Paper'
