@@ -17,6 +17,17 @@ npm run start
 ## Blog Post with Backend CRUD
 A simple blogging system allowing writing/editing articles in markdown and then listing/viewing/filtering/removing them. Private database is used.
 
+[Link](https://github.com/RomanRDQ/it-absolvent/tree/master/src/routes/Blog)
+
 [![N|Blog](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/blog/blog1.png?raw=true)](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/blog/blog1.png?raw=true)
 
-[![N|Blog](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/blog/blog1.png?raw=true)](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/blog/blog2.png?raw=true)
+[![N|Blog](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/blog/blog2.png?raw=true)](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/blog/blog2.png?raw=true)
+
+## Mortgage Calculator
+Mortgage Calculator calculate Remain, Principal Payment and Interest Payment, and theirs amount with inflation from inputs amounts.
+
+[Link](https://github.com/RomanRDQ/it-absolvent/tree/master/src/routes/Blog)
+
+[![N|Blog](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/blog/blog1.png?raw=true)](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/blog/blog1.png?raw=true)
+
+[![N|Blog](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/blog/blog2.png?raw=true)](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/blog/blog2.png?raw=true)
