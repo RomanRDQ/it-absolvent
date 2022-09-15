@@ -16,7 +16,7 @@ export const themeMUI = createTheme({
       fontFamily: fontAlt,
     },
     h5: {
-      fontFamily: fontAlt,
+      fontFamily: fontMain,
     },
   },
   palette: {
@@ -25,6 +25,12 @@ export const themeMUI = createTheme({
     },
     secondary: {
       main: '#FFD700',
+    },
+    error: {
+      main: '#f44336',
+    },
+    warning: {
+      main: '#ffa726',
     },
     background: {
       paper: '#292929',
@@ -41,6 +47,7 @@ export const theme = {
     black: '#000000',
     lightGray: '#D3D3D3',
     gradient: 'linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet, red)',
+    error: '#f44336',
   },
   breakpoint: {
     maxWidth: {

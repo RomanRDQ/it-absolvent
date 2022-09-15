@@ -9,7 +9,7 @@ import hackertyper from '../assets/img/hackertyper.png'
 import memorygame from '../assets/img/memorygame.png'
 import mortgage from '../assets/img/mortgage.png'
 import styled from 'styled-components'
-import todolist from '../assets/img/todolist-try.png'
+import todolist from '../assets/img/todolist.png'
 
 export const Projects = () => {
   return (

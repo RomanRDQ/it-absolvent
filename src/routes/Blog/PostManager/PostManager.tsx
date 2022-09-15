@@ -38,7 +38,9 @@ export const PostManager = () => {
                 label={''}
               />
               {logic.title.length === 0 && (
-                <FormHelperText sx={{ display: 'flex', alignSelf: 'center' }}>
+                <FormHelperText
+                  sx={{ display: 'flex', alignSelf: 'center', color: theme.colors.error }}
+                >
                   Title length must be bigger than 0
                 </FormHelperText>
               )}
@@ -59,7 +61,9 @@ export const PostManager = () => {
                 label={''}
               />
               {logic.author.length === 0 && (
-                <FormHelperText sx={{ display: 'flex', alignSelf: 'center' }}>
+                <FormHelperText
+                  sx={{ display: 'flex', alignSelf: 'center', color: theme.colors.error }}
+                >
                   Author length must be bigger than 0
                 </FormHelperText>
               )}
@@ -80,7 +84,9 @@ export const PostManager = () => {
                 label={''}
               />
               {logic.text.length === 0 && (
-                <FormHelperText sx={{ display: 'flex', alignSelf: 'center' }}>
+                <FormHelperText
+                  sx={{ display: 'flex', alignSelf: 'center', color: theme.colors.error }}
+                >
                   Markdown content must be bigger than 0
                 </FormHelperText>
               )}
@@ -100,10 +106,11 @@ export const PostManager = () => {
 }
 
 const Div_PostManager = styled.div`
-  display: grid;
-  grid-template-rows: 1fr 1fr 1fr;
-  gap: 2rem;
-  min-width: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
 `
 
 const Div_FormControlLabel = styled.div`
