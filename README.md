@@ -26,35 +26,38 @@ A simple blogging system allowing writing/editing articles in markdown and then 
 ## Mortgage Calculator
 Mortgage Calculator calculate Remain, Principal Payment and Interest Payment, and theirs amount with inflation from inputs amounts.
 
-[Link](https://github.com/RomanRDQ/it-absolvent/tree/master/src/routes/MortgageCalculator)
+[Link](http://rudakevych.site/mortgagecalculator)
 
 [![N|Mortgage](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/mortgage/mortgage1.png?raw=true)](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/mortgage/mortgage1.png?raw=true)
 
-[![N|Blog](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/mortgage/mortgage2.png?raw=true)](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/mortgage/mortgage2.png?raw=true)
+[![N|Mortgage](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/mortgage/mortgage2.png?raw=true)](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/mortgage/mortgage2.png?raw=true)
 
-[![N|Blog](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/mortgage/mortgage3.png?raw=true)](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/mortgage/mortgage3.png?raw=true)
+[![N|Mortgage](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/mortgage/mortgage3.png?raw=true)](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/mortgage/mortgage3.png?raw=true)
 
 ## Memory Game
 Memory Game with pictures of skills in Dota2 with counting of steps
 
-[Link](https://github.com/RomanRDQ/it-absolvent/tree/master/src/routes/MemoryGame)
+[Link](http://rudakevych.site/memorygame)
 
-[![N|Mortgage](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/memorygame/memorygame.png?raw=true)](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/memorygame/memorygame.png?raw=true)
+[![N|Memorygame](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/memorygame/memorygame.png?raw=true)](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/memorygame/memorygame.png?raw=true)
 
 ## Hacker Typer
 Inspiration: https://hackertyper.com/
-[Link](https://github.com/RomanRDQ/it-absolvent/tree/master/src/routes/HackerTyper)
 
-[![N|Mortgage](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/hackertyper.png?raw=true)](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/hackertyper.png?raw=true)
+[Link](http://rudakevych.site/hackertyper)
+
+[![N|hackertyper](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/hackertyper.png?raw=true)](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/hackertyper.png?raw=true)
 
 ## Todo App using React.Context
 Simple todo app that allows adding, removing and filtering tasks using React.Context
-[Link](https://github.com/RomanRDQ/it-absolvent/tree/master/src/routes/TodoListApp)
 
-[![N|Mortgage](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/todolist/todolist.png?raw=true)](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/todolist/todolist.png?raw=true)
+[Link](http://rudakevych.site/todolist)
+
+[![N|todolist](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/todolist/todolist.png?raw=true)](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/todolist/todolist.png?raw=true)
 
 ## Todo App using Redux Toolkit
 Simple todo app that allows adding, removing and filtering tasks using Redux Toolkit
-[Link](https://github.com/RomanRDQ/it-absolvent/tree/master/src/routes/TodoRedux)
 
-[![N|Mortgage](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/todolist/todolist.png?raw=true)](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/todolist/todolist.png?raw=true)
+[Link](http://rudakevych.site/todoredux)
+
+[![N|Todo](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/todolist/todolist.png?raw=true)](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/todolist/todolist.png?raw=true)
