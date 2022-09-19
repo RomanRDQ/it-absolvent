@@ -2,6 +2,8 @@ import bodyParser from 'body-parser'
 import cors from 'cors'
 import express from 'express'
 import fs from 'fs'
+import swaggerJSON from '../swagger.json'
+import swaggerUi from 'swagger-ui-express'
 
 type Articles = {
   articles: Article[]
@@ -18,6 +20,7 @@ type Article = {
 
 const app = express()
 const port = 1234
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerJSON))
 app.use(cors())
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
