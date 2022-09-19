@@ -1,7 +1,7 @@
 ## Mortgage Calculator
 Mortgage Calculator calculate Remain, Principal Payment and Interest Payment, and theirs amount with inflation from inputs amounts.
 
-[Link](https://github.com/RomanRDQ/it-absolvent/tree/master/src/routes/MortgageCalculator)
+[Link](http://rudakevych.site/mortgagecalculator)
 
 [![N|Mortgage](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/mortgage/mortgage1.png?raw=true)](https://github.com/RomanRDQ/it-absolvent/blob/master/src/assets/img/md/mortgage/mortgage1.png?raw=true)
 
